@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="48" started-at="2020-04-19T21:08:58 ADT" finished-at="2020-04-19T21:08:58 ADT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="48" started-at="2020-04-19T21:08:58 ADT" finished-at="2020-04-19T21:08:58 ADT">
+      <class name="qaclickacademy.AppiumTest">
+        <test-method status="PASS" signature="apiintegrTion()[pri:0, instance:qaclickacademy.AppiumTest@305fd85d]" name="apiintegrTion" duration-ms="6" started-at="2020-04-19T21:08:58 ADT" finished-at="2020-04-19T21:08:58 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- apiintegrTion -->
+        <test-method status="PASS" signature="appiumlogin()[pri:0, instance:qaclickacademy.AppiumTest@305fd85d]" name="appiumlogin" duration-ms="0" started-at="2020-04-19T21:08:58 ADT" finished-at="2020-04-19T21:08:58 ADT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appiumlogin -->
+      </class> <!-- qaclickacademy.AppiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
